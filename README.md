@@ -7,6 +7,8 @@ gl.clearColor(red, green, blue, alpha)
 
 Specify the clear color for the drawing area.
 
+
+
 ```
 gl.clear(buffer)
 ```
