@@ -1,6 +1,6 @@
 GLAPI
 ===============
-
+<br>
 ```
 gl.clearColor(red, green, blue, alpha)
 ```
@@ -9,6 +9,7 @@ Specify the clear color for the drawing area.
 
 
 <br>
+
 ```
 gl.clear(buffer)
 ```
